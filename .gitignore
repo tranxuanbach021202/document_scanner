@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# IDE / tooling
+.vscode/
+.idea/
+.claude/
+
+# C++ build outputs
+detect_c+/build/
+detect_c+/build-*/
+*.o
+*.a
+*.so
+*.dylib
+
+# Logs
+*.log
